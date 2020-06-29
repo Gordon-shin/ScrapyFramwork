@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dfc16e6f-a248-4f40-b0d6-8bb642c7a71c" name="Default Changelist" comment="" />
+    <list default="true" id="dfc16e6f-a248-4f40-b0d6-8bb642c7a71c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doutula/doutula/spiders/doutula_spider.py" beforeDir="false" afterPath="$PROJECT_DIR$/doutula/doutula/spiders/doutula_spider.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,6 +30,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/doutula/doutula" />
     <property name="settings.editor.selected.configurable" value="preferences.updates" />
@@ -152,18 +157,34 @@
       <workItem from="1592548692380" duration="11173000" />
       <workItem from="1592623771838" duration="22000" />
       <workItem from="1592785990062" duration="5876000" />
-      <workItem from="1593410619806" duration="7087000" />
+      <workItem from="1593410619806" duration="8249000" />
     </task>
+    <task id="LOCAL-00001" summary="update">
+      <created>1593417932334</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1593417932334</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
   <component name="WindowStateProjectService">
     <state x="880" y="254" key="#Notifications" timestamp="1592786203816">
       <screen x="0" y="0" width="1280" height="770" />
     </state>
     <state x="880" y="254" key="#Notifications/0.0.1280.770@0.0.1280.770" timestamp="1592786203816" />
+    <state x="245" y="0" key="CommitChangelistDialog2" timestamp="1593417931859">
+      <screen x="0" y="0" width="1280" height="770" />
+    </state>
+    <state x="245" y="0" key="CommitChangelistDialog2/0.0.1280.770@0.0.1280.770" timestamp="1593417931859" />
     <state x="741" y="140" key="FileChooserDialogImpl" timestamp="1592620538247">
       <screen x="0" y="0" width="1280" height="770" />
     </state>
@@ -176,42 +197,46 @@
       <screen x="0" y="0" width="1280" height="770" />
     </state>
     <state x="474" y="89" key="Github.UntrackedFilesDialog/0.0.1280.770@0.0.1280.770" timestamp="1593417759463" />
-    <state width="1238" height="239" key="GridCell.Tab.0.bottom" timestamp="1593417404690">
+    <state width="1238" height="239" key="GridCell.Tab.0.bottom" timestamp="1593418865438">
       <screen x="0" y="0" width="1280" height="770" />
     </state>
-    <state width="1238" height="239" key="GridCell.Tab.0.bottom/0.0.1280.770@0.0.1280.770" timestamp="1593417404690" />
-    <state width="1238" height="239" key="GridCell.Tab.0.center" timestamp="1593417404690">
+    <state width="1238" height="239" key="GridCell.Tab.0.bottom/0.0.1280.770@0.0.1280.770" timestamp="1593418865438" />
+    <state width="1238" height="239" key="GridCell.Tab.0.center" timestamp="1593418865438">
       <screen x="0" y="0" width="1280" height="770" />
     </state>
-    <state width="1238" height="239" key="GridCell.Tab.0.center/0.0.1280.770@0.0.1280.770" timestamp="1593417404690" />
-    <state width="1238" height="239" key="GridCell.Tab.0.left" timestamp="1593417404690">
+    <state width="1238" height="239" key="GridCell.Tab.0.center/0.0.1280.770@0.0.1280.770" timestamp="1593418865438" />
+    <state width="1238" height="239" key="GridCell.Tab.0.left" timestamp="1593418865438">
       <screen x="0" y="0" width="1280" height="770" />
     </state>
-    <state width="1238" height="239" key="GridCell.Tab.0.left/0.0.1280.770@0.0.1280.770" timestamp="1593417404690" />
-    <state width="1238" height="239" key="GridCell.Tab.0.right" timestamp="1593417404690">
+    <state width="1238" height="239" key="GridCell.Tab.0.left/0.0.1280.770@0.0.1280.770" timestamp="1593418865438" />
+    <state width="1238" height="239" key="GridCell.Tab.0.right" timestamp="1593418865438">
       <screen x="0" y="0" width="1280" height="770" />
     </state>
-    <state width="1238" height="239" key="GridCell.Tab.0.right/0.0.1280.770@0.0.1280.770" timestamp="1593417404690" />
-    <state width="1238" height="239" key="GridCell.Tab.1.bottom" timestamp="1593417408010">
+    <state width="1238" height="239" key="GridCell.Tab.0.right/0.0.1280.770@0.0.1280.770" timestamp="1593418865438" />
+    <state width="1238" height="239" key="GridCell.Tab.1.bottom" timestamp="1593418870173">
       <screen x="0" y="0" width="1280" height="770" />
     </state>
-    <state width="1238" height="239" key="GridCell.Tab.1.bottom/0.0.1280.770@0.0.1280.770" timestamp="1593417408010" />
-    <state width="1238" height="239" key="GridCell.Tab.1.center" timestamp="1593417408009">
+    <state width="1238" height="239" key="GridCell.Tab.1.bottom/0.0.1280.770@0.0.1280.770" timestamp="1593418870173" />
+    <state width="1238" height="239" key="GridCell.Tab.1.center" timestamp="1593418870173">
       <screen x="0" y="0" width="1280" height="770" />
     </state>
-    <state width="1238" height="239" key="GridCell.Tab.1.center/0.0.1280.770@0.0.1280.770" timestamp="1593417408009" />
-    <state width="1238" height="239" key="GridCell.Tab.1.left" timestamp="1593417408009">
+    <state width="1238" height="239" key="GridCell.Tab.1.center/0.0.1280.770@0.0.1280.770" timestamp="1593418870173" />
+    <state width="1238" height="239" key="GridCell.Tab.1.left" timestamp="1593418870173">
       <screen x="0" y="0" width="1280" height="770" />
     </state>
-    <state width="1238" height="239" key="GridCell.Tab.1.left/0.0.1280.770@0.0.1280.770" timestamp="1593417408009" />
-    <state width="1238" height="239" key="GridCell.Tab.1.right" timestamp="1593417408009">
+    <state width="1238" height="239" key="GridCell.Tab.1.left/0.0.1280.770@0.0.1280.770" timestamp="1593418870173" />
+    <state width="1238" height="239" key="GridCell.Tab.1.right" timestamp="1593418870173">
       <screen x="0" y="0" width="1280" height="770" />
     </state>
-    <state width="1238" height="239" key="GridCell.Tab.1.right/0.0.1280.770@0.0.1280.770" timestamp="1593417408009" />
+    <state width="1238" height="239" key="GridCell.Tab.1.right/0.0.1280.770@0.0.1280.770" timestamp="1593418870173" />
     <state x="166" y="13" key="SettingsEditor" timestamp="1592786225081">
       <screen x="0" y="0" width="1280" height="770" />
     </state>
     <state x="166" y="13" key="SettingsEditor/0.0.1280.770@0.0.1280.770" timestamp="1592786225081" />
+    <state x="233" y="118" key="Vcs.Push.Dialog.v2" timestamp="1593417937410">
+      <screen x="0" y="0" width="1280" height="770" />
+    </state>
+    <state x="233" y="118" key="Vcs.Push.Dialog.v2/0.0.1280.770@0.0.1280.770" timestamp="1593417937410" />
     <state width="325" height="387" key="XDebugger.FullValuePopup" timestamp="1593416804514">
       <screen x="0" y="0" width="1280" height="770" />
     </state>
@@ -230,15 +255,15 @@
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/doutula/doutula/spiders/doutula_spider.py</url>
-          <line>29</line>
-          <option name="timeStamp" value="8" />
+          <line>32</line>
+          <option name="timeStamp" value="10" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Scrapy$start_renrenp.coverage" NAME="start_renrenp Coverage Results" MODIFIED="1592787701595" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/renren/renren" />
-    <SUITE FILE_PATH="coverage/Scrapy$start_doutula.coverage" NAME="start_doutula Coverage Results" MODIFIED="1593417404596" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/doutula/doutula" />
+    <SUITE FILE_PATH="coverage/Scrapy$start_doutula.coverage" NAME="start_doutula Coverage Results" MODIFIED="1593418865329" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/doutula/doutula" />
     <SUITE FILE_PATH="coverage/Scrapy$start_wxapp.coverage" NAME="start_wxapp Coverage Results" MODIFIED="1592620568326" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/wxapp/wxapp" />
     <SUITE FILE_PATH="coverage/Scrapy$start.coverage" NAME="start Coverage Results" MODIFIED="1592551662588" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/qsbk_spider/qsbk" />
   </component>

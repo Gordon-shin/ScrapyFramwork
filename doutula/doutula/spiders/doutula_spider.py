@@ -25,9 +25,13 @@ class DoutulaSpiderSpider(CrawlSpider):
         list_group =response.xpath("//a[contains(@class,'list-group-item')]")
         for item in list_group:
             assert isinstance(item,scrapy.selector.unified.Selector)#item 是一组图片的Selector对象
-            title=item.xpath("//div[@class='random_title']/text()").get()#一组图片的标题
-            time = item.xpath("//div[@class='date']/text()").get()#一组图片的时间
-            pic_urls = item.xpath("//div[@class='random_article']/div[@class='col-xs-6 col-sm-3']/img/@data-original").getall()
+            title=item.xpath(".//div[@class='random_title']/text()").get()#一组图片的标题
+            time = item.xpath(".//div[@class='date']/text()").get()#一组图片的时间
+            #time = item.css(".date").get()#一组图片的时间
+            #pic_urls = item.xpath("//div[@class='random_article']/div[@class='col-xs-6 col-sm-3']/img/@data-original").getall()
+           #pic_urls = item.xpath("//img/@data-original").getall()
+            pic_urls = item.css(".random_article img::attr(data-original)").getall()
+
             print(pic_urls)
         print(list_group)
         return list_group
