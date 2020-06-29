@@ -1,0 +1,1 @@
+scrapy genspider -t crawl **_spider "域名"
